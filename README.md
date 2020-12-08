@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="">
- <img height="185rem"  src="https://github-readme-stats.vercel.app/api?username=andresricci93&count_private=true" />
- <img height="185rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresricci93&layout=compact" />
+ <img height="200px" width="375px" src="https://github-readme-stats.vercel.app/api?username=andresricci93&count_private=true" />
+ <img height="200px" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresricci93&layout=compact" />
 </a>
