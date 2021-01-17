@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img height="200px" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndresRicci93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200px" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndresRicci93&layout=compact&langs_count=8&theme=algolia"/>
 
+
+<p align="center">
+  <img height="200px" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndresRicci93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </p>
+  <p align="center">
+  <img height="200px" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndresRicci93&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
